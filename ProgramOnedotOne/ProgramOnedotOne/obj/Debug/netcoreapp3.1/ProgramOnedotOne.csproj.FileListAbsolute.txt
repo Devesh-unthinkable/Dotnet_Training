@@ -1,0 +1,13 @@
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotOne\ProgramOnedotOne\bin\Debug\netcoreapp3.1\ProgramOnedotOne.exe
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotOne\ProgramOnedotOne\bin\Debug\netcoreapp3.1\ProgramOnedotOne.deps.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotOne\ProgramOnedotOne\bin\Debug\netcoreapp3.1\ProgramOnedotOne.runtimeconfig.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotOne\ProgramOnedotOne\bin\Debug\netcoreapp3.1\ProgramOnedotOne.runtimeconfig.dev.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotOne\ProgramOnedotOne\bin\Debug\netcoreapp3.1\ProgramOnedotOne.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotOne\ProgramOnedotOne\bin\Debug\netcoreapp3.1\ProgramOnedotOne.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotOne\ProgramOnedotOne\obj\Debug\netcoreapp3.1\ProgramOnedotOne.csprojAssemblyReference.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotOne\ProgramOnedotOne\obj\Debug\netcoreapp3.1\ProgramOnedotOne.AssemblyInfoInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotOne\ProgramOnedotOne\obj\Debug\netcoreapp3.1\ProgramOnedotOne.AssemblyInfo.cs
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotOne\ProgramOnedotOne\obj\Debug\netcoreapp3.1\ProgramOnedotOne.csproj.CoreCompileInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotOne\ProgramOnedotOne\obj\Debug\netcoreapp3.1\ProgramOnedotOne.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotOne\ProgramOnedotOne\obj\Debug\netcoreapp3.1\ProgramOnedotOne.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotOne\ProgramOnedotOne\obj\Debug\netcoreapp3.1\ProgramOnedotOne.genruntimeconfig.cache

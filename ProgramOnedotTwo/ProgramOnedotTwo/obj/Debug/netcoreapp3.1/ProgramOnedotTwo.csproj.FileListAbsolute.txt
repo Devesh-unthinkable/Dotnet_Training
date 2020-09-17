@@ -1,0 +1,13 @@
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotTwo\ProgramOnedotTwo\bin\Debug\netcoreapp3.1\ProgramOnedotTwo.exe
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotTwo\ProgramOnedotTwo\bin\Debug\netcoreapp3.1\ProgramOnedotTwo.deps.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotTwo\ProgramOnedotTwo\bin\Debug\netcoreapp3.1\ProgramOnedotTwo.runtimeconfig.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotTwo\ProgramOnedotTwo\bin\Debug\netcoreapp3.1\ProgramOnedotTwo.runtimeconfig.dev.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotTwo\ProgramOnedotTwo\bin\Debug\netcoreapp3.1\ProgramOnedotTwo.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotTwo\ProgramOnedotTwo\bin\Debug\netcoreapp3.1\ProgramOnedotTwo.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotTwo\ProgramOnedotTwo\obj\Debug\netcoreapp3.1\ProgramOnedotTwo.csprojAssemblyReference.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotTwo\ProgramOnedotTwo\obj\Debug\netcoreapp3.1\ProgramOnedotTwo.AssemblyInfoInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotTwo\ProgramOnedotTwo\obj\Debug\netcoreapp3.1\ProgramOnedotTwo.AssemblyInfo.cs
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotTwo\ProgramOnedotTwo\obj\Debug\netcoreapp3.1\ProgramOnedotTwo.csproj.CoreCompileInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotTwo\ProgramOnedotTwo\obj\Debug\netcoreapp3.1\ProgramOnedotTwo.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotTwo\ProgramOnedotTwo\obj\Debug\netcoreapp3.1\ProgramOnedotTwo.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotTwo\ProgramOnedotTwo\obj\Debug\netcoreapp3.1\ProgramOnedotTwo.genruntimeconfig.cache

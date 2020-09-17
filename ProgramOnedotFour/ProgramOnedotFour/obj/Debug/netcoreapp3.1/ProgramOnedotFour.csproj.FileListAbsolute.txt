@@ -1,0 +1,13 @@
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFour\ProgramOnedotFour\bin\Debug\netcoreapp3.1\ProgramOnedotFour.exe
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFour\ProgramOnedotFour\bin\Debug\netcoreapp3.1\ProgramOnedotFour.deps.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFour\ProgramOnedotFour\bin\Debug\netcoreapp3.1\ProgramOnedotFour.runtimeconfig.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFour\ProgramOnedotFour\bin\Debug\netcoreapp3.1\ProgramOnedotFour.runtimeconfig.dev.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFour\ProgramOnedotFour\bin\Debug\netcoreapp3.1\ProgramOnedotFour.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFour\ProgramOnedotFour\bin\Debug\netcoreapp3.1\ProgramOnedotFour.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFour\ProgramOnedotFour\obj\Debug\netcoreapp3.1\ProgramOnedotFour.csprojAssemblyReference.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFour\ProgramOnedotFour\obj\Debug\netcoreapp3.1\ProgramOnedotFour.AssemblyInfoInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFour\ProgramOnedotFour\obj\Debug\netcoreapp3.1\ProgramOnedotFour.AssemblyInfo.cs
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFour\ProgramOnedotFour\obj\Debug\netcoreapp3.1\ProgramOnedotFour.csproj.CoreCompileInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFour\ProgramOnedotFour\obj\Debug\netcoreapp3.1\ProgramOnedotFour.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFour\ProgramOnedotFour\obj\Debug\netcoreapp3.1\ProgramOnedotFour.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFour\ProgramOnedotFour\obj\Debug\netcoreapp3.1\ProgramOnedotFour.genruntimeconfig.cache

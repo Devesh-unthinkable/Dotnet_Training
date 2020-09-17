@@ -1,0 +1,13 @@
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFive\ProgramOnedotFive\obj\Debug\netcoreapp3.1\ProgramOnedotFive.AssemblyInfoInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFive\ProgramOnedotFive\obj\Debug\netcoreapp3.1\ProgramOnedotFive.AssemblyInfo.cs
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFive\ProgramOnedotFive\obj\Debug\netcoreapp3.1\ProgramOnedotFive.csproj.CoreCompileInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFive\ProgramOnedotFive\bin\Debug\netcoreapp3.1\ProgramOnedotFive.exe
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFive\ProgramOnedotFive\bin\Debug\netcoreapp3.1\ProgramOnedotFive.deps.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFive\ProgramOnedotFive\bin\Debug\netcoreapp3.1\ProgramOnedotFive.runtimeconfig.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFive\ProgramOnedotFive\bin\Debug\netcoreapp3.1\ProgramOnedotFive.runtimeconfig.dev.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFive\ProgramOnedotFive\bin\Debug\netcoreapp3.1\ProgramOnedotFive.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFive\ProgramOnedotFive\bin\Debug\netcoreapp3.1\ProgramOnedotFive.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFive\ProgramOnedotFive\obj\Debug\netcoreapp3.1\ProgramOnedotFive.csprojAssemblyReference.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFive\ProgramOnedotFive\obj\Debug\netcoreapp3.1\ProgramOnedotFive.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFive\ProgramOnedotFive\obj\Debug\netcoreapp3.1\ProgramOnedotFive.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotFive\ProgramOnedotFive\obj\Debug\netcoreapp3.1\ProgramOnedotFive.genruntimeconfig.cache

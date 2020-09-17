@@ -1,0 +1,13 @@
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotThree\ProgramOnedotThree\obj\Debug\netcoreapp3.1\ProgramOnedotThree.AssemblyInfoInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotThree\ProgramOnedotThree\obj\Debug\netcoreapp3.1\ProgramOnedotThree.AssemblyInfo.cs
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotThree\ProgramOnedotThree\obj\Debug\netcoreapp3.1\ProgramOnedotThree.csproj.CoreCompileInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotThree\ProgramOnedotThree\bin\Debug\netcoreapp3.1\ProgramOnedotThree.exe
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotThree\ProgramOnedotThree\bin\Debug\netcoreapp3.1\ProgramOnedotThree.deps.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotThree\ProgramOnedotThree\bin\Debug\netcoreapp3.1\ProgramOnedotThree.runtimeconfig.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotThree\ProgramOnedotThree\bin\Debug\netcoreapp3.1\ProgramOnedotThree.runtimeconfig.dev.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotThree\ProgramOnedotThree\bin\Debug\netcoreapp3.1\ProgramOnedotThree.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotThree\ProgramOnedotThree\bin\Debug\netcoreapp3.1\ProgramOnedotThree.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotThree\ProgramOnedotThree\obj\Debug\netcoreapp3.1\ProgramOnedotThree.csprojAssemblyReference.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotThree\ProgramOnedotThree\obj\Debug\netcoreapp3.1\ProgramOnedotThree.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotThree\ProgramOnedotThree\obj\Debug\netcoreapp3.1\ProgramOnedotThree.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramOnedotThree\ProgramOnedotThree\obj\Debug\netcoreapp3.1\ProgramOnedotThree.genruntimeconfig.cache
