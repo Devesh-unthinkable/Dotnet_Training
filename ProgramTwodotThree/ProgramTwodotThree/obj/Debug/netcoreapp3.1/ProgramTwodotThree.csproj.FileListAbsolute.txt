@@ -1,0 +1,12 @@
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotThree\ProgramTwodotThree\obj\Debug\netcoreapp3.1\ProgramTwodotThree.AssemblyInfoInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotThree\ProgramTwodotThree\obj\Debug\netcoreapp3.1\ProgramTwodotThree.AssemblyInfo.cs
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotThree\ProgramTwodotThree\obj\Debug\netcoreapp3.1\ProgramTwodotThree.csproj.CoreCompileInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotThree\ProgramTwodotThree\bin\Debug\netcoreapp3.1\ProgramTwodotThree.exe
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotThree\ProgramTwodotThree\bin\Debug\netcoreapp3.1\ProgramTwodotThree.deps.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotThree\ProgramTwodotThree\bin\Debug\netcoreapp3.1\ProgramTwodotThree.runtimeconfig.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotThree\ProgramTwodotThree\bin\Debug\netcoreapp3.1\ProgramTwodotThree.runtimeconfig.dev.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotThree\ProgramTwodotThree\bin\Debug\netcoreapp3.1\ProgramTwodotThree.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotThree\ProgramTwodotThree\bin\Debug\netcoreapp3.1\ProgramTwodotThree.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotThree\ProgramTwodotThree\obj\Debug\netcoreapp3.1\ProgramTwodotThree.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotThree\ProgramTwodotThree\obj\Debug\netcoreapp3.1\ProgramTwodotThree.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotThree\ProgramTwodotThree\obj\Debug\netcoreapp3.1\ProgramTwodotThree.genruntimeconfig.cache

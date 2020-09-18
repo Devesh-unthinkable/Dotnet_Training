@@ -1,0 +1,12 @@
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFour\ProgramTwodotFour\obj\Debug\netcoreapp3.1\ProgramTwodotFour.AssemblyInfoInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFour\ProgramTwodotFour\obj\Debug\netcoreapp3.1\ProgramTwodotFour.AssemblyInfo.cs
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFour\ProgramTwodotFour\obj\Debug\netcoreapp3.1\ProgramTwodotFour.csproj.CoreCompileInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFour\ProgramTwodotFour\bin\Debug\netcoreapp3.1\ProgramTwodotFour.exe
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFour\ProgramTwodotFour\bin\Debug\netcoreapp3.1\ProgramTwodotFour.deps.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFour\ProgramTwodotFour\bin\Debug\netcoreapp3.1\ProgramTwodotFour.runtimeconfig.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFour\ProgramTwodotFour\bin\Debug\netcoreapp3.1\ProgramTwodotFour.runtimeconfig.dev.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFour\ProgramTwodotFour\bin\Debug\netcoreapp3.1\ProgramTwodotFour.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFour\ProgramTwodotFour\bin\Debug\netcoreapp3.1\ProgramTwodotFour.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFour\ProgramTwodotFour\obj\Debug\netcoreapp3.1\ProgramTwodotFour.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFour\ProgramTwodotFour\obj\Debug\netcoreapp3.1\ProgramTwodotFour.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFour\ProgramTwodotFour\obj\Debug\netcoreapp3.1\ProgramTwodotFour.genruntimeconfig.cache

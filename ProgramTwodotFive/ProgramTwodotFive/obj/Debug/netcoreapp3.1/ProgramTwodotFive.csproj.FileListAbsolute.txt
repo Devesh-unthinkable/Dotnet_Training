@@ -1,0 +1,13 @@
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFive\ProgramTwodotFive\obj\Debug\netcoreapp3.1\ProgramTwodotFive.AssemblyInfoInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFive\ProgramTwodotFive\obj\Debug\netcoreapp3.1\ProgramTwodotFive.AssemblyInfo.cs
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFive\ProgramTwodotFive\obj\Debug\netcoreapp3.1\ProgramTwodotFive.csproj.CoreCompileInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFive\ProgramTwodotFive\bin\Debug\netcoreapp3.1\ProgramTwodotFive.exe
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFive\ProgramTwodotFive\bin\Debug\netcoreapp3.1\ProgramTwodotFive.deps.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFive\ProgramTwodotFive\bin\Debug\netcoreapp3.1\ProgramTwodotFive.runtimeconfig.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFive\ProgramTwodotFive\bin\Debug\netcoreapp3.1\ProgramTwodotFive.runtimeconfig.dev.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFive\ProgramTwodotFive\bin\Debug\netcoreapp3.1\ProgramTwodotFive.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFive\ProgramTwodotFive\bin\Debug\netcoreapp3.1\ProgramTwodotFive.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFive\ProgramTwodotFive\obj\Debug\netcoreapp3.1\ProgramTwodotFive.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFive\ProgramTwodotFive\obj\Debug\netcoreapp3.1\ProgramTwodotFive.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFive\ProgramTwodotFive\obj\Debug\netcoreapp3.1\ProgramTwodotFive.genruntimeconfig.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotFive\ProgramTwodotFive\obj\Debug\netcoreapp3.1\ProgramTwodotFive.csprojAssemblyReference.cache

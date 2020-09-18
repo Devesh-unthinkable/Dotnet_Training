@@ -1,0 +1,13 @@
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotTwo\ProgramTwodotTwo\obj\Debug\netcoreapp3.1\ProgramTwodotTwo.csprojAssemblyReference.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotTwo\ProgramTwodotTwo\obj\Debug\netcoreapp3.1\ProgramTwodotTwo.AssemblyInfoInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotTwo\ProgramTwodotTwo\obj\Debug\netcoreapp3.1\ProgramTwodotTwo.AssemblyInfo.cs
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotTwo\ProgramTwodotTwo\obj\Debug\netcoreapp3.1\ProgramTwodotTwo.csproj.CoreCompileInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotTwo\ProgramTwodotTwo\bin\Debug\netcoreapp3.1\ProgramTwodotTwo.exe
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotTwo\ProgramTwodotTwo\bin\Debug\netcoreapp3.1\ProgramTwodotTwo.deps.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotTwo\ProgramTwodotTwo\bin\Debug\netcoreapp3.1\ProgramTwodotTwo.runtimeconfig.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotTwo\ProgramTwodotTwo\bin\Debug\netcoreapp3.1\ProgramTwodotTwo.runtimeconfig.dev.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotTwo\ProgramTwodotTwo\bin\Debug\netcoreapp3.1\ProgramTwodotTwo.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotTwo\ProgramTwodotTwo\bin\Debug\netcoreapp3.1\ProgramTwodotTwo.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotTwo\ProgramTwodotTwo\obj\Debug\netcoreapp3.1\ProgramTwodotTwo.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotTwo\ProgramTwodotTwo\obj\Debug\netcoreapp3.1\ProgramTwodotTwo.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotTwo\ProgramTwodotTwo\obj\Debug\netcoreapp3.1\ProgramTwodotTwo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotOne\ProgramTwodotOne\obj\Debug\netcoreapp3.1\ProgramTwodotOne.csprojAssemblyReference.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotOne\ProgramTwodotOne\obj\Debug\netcoreapp3.1\ProgramTwodotOne.AssemblyInfoInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotOne\ProgramTwodotOne\obj\Debug\netcoreapp3.1\ProgramTwodotOne.AssemblyInfo.cs
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotOne\ProgramTwodotOne\obj\Debug\netcoreapp3.1\ProgramTwodotOne.csproj.CoreCompileInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotOne\ProgramTwodotOne\bin\Debug\netcoreapp3.1\ProgramTwodotOne.exe
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotOne\ProgramTwodotOne\bin\Debug\netcoreapp3.1\ProgramTwodotOne.deps.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotOne\ProgramTwodotOne\bin\Debug\netcoreapp3.1\ProgramTwodotOne.runtimeconfig.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotOne\ProgramTwodotOne\bin\Debug\netcoreapp3.1\ProgramTwodotOne.runtimeconfig.dev.json
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotOne\ProgramTwodotOne\bin\Debug\netcoreapp3.1\ProgramTwodotOne.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotOne\ProgramTwodotOne\bin\Debug\netcoreapp3.1\ProgramTwodotOne.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotOne\ProgramTwodotOne\obj\Debug\netcoreapp3.1\ProgramTwodotOne.dll
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotOne\ProgramTwodotOne\obj\Debug\netcoreapp3.1\ProgramTwodotOne.pdb
+C:\Users\Devesh Gupta\Source\Repos\ProgramTwodotOne\ProgramTwodotOne\obj\Debug\netcoreapp3.1\ProgramTwodotOne.genruntimeconfig.cache
