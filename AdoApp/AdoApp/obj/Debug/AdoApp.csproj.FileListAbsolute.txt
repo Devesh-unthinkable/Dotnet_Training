@@ -1,0 +1,15 @@
+C:\Users\Devesh Gupta\Source\Repos\AdoApp\AdoApp\obj\Debug\AdoApp.csprojAssemblyReference.cache
+C:\Users\Devesh Gupta\Source\Repos\AdoApp\AdoApp\obj\Debug\AdoApp.DisconnectedArchitecture.resources
+C:\Users\Devesh Gupta\Source\Repos\AdoApp\AdoApp\obj\Debug\AdoApp.Properties.Resources.resources
+C:\Users\Devesh Gupta\Source\Repos\AdoApp\AdoApp\obj\Debug\AdoApp.csproj.GenerateResource.cache
+C:\Users\Devesh Gupta\Source\Repos\AdoApp\AdoApp\obj\Debug\AdoApp.csproj.CoreCompileInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\AdoApp\AdoApp\bin\Debug\AdoApp.exe.config
+C:\Users\Devesh Gupta\Source\Repos\AdoApp\AdoApp\bin\Debug\AdoApp.exe
+C:\Users\Devesh Gupta\Source\Repos\AdoApp\AdoApp\bin\Debug\AdoApp.pdb
+C:\Users\Devesh Gupta\Source\Repos\AdoApp\AdoApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Devesh Gupta\Source\Repos\AdoApp\AdoApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Devesh Gupta\Source\Repos\AdoApp\AdoApp\obj\Debug\AdoApp.csproj.CopyComplete
+C:\Users\Devesh Gupta\Source\Repos\AdoApp\AdoApp\obj\Debug\AdoApp.exe
+C:\Users\Devesh Gupta\Source\Repos\AdoApp\AdoApp\obj\Debug\AdoApp.pdb
+C:\Users\Devesh Gupta\Source\Repos\AdoApp\AdoApp\obj\Debug\AdoApp.UnderstandingDataset.resources
+C:\Users\Devesh Gupta\Source\Repos\AdoApp\AdoApp\obj\Debug\AdoApp.SerializingDataset.resources
