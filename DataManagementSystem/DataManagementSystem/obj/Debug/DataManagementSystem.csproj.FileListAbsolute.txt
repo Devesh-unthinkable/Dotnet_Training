@@ -1,0 +1,2 @@
+C:\Users\Devesh Gupta\Source\Repos\DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.csprojAssemblyReference.cache
+C:\Users\Devesh Gupta\Source\Repos\DataManagementSystem\DataManagementSystem\obj\Debug\DataManagementSystem.csproj.CoreCompileInputs.cache
