@@ -1,0 +1,13 @@
+C:\Users\Devesh Gupta\Source\Repos\CSharpMisc\CSharpMisc\obj\Debug\netcoreapp3.1\CSharpMisc.csprojAssemblyReference.cache
+C:\Users\Devesh Gupta\Source\Repos\CSharpMisc\CSharpMisc\obj\Debug\netcoreapp3.1\CSharpMisc.AssemblyInfoInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\CSharpMisc\CSharpMisc\obj\Debug\netcoreapp3.1\CSharpMisc.AssemblyInfo.cs
+C:\Users\Devesh Gupta\Source\Repos\CSharpMisc\CSharpMisc\obj\Debug\netcoreapp3.1\CSharpMisc.csproj.CoreCompileInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\CSharpMisc\CSharpMisc\bin\Debug\netcoreapp3.1\CSharpMisc.exe
+C:\Users\Devesh Gupta\Source\Repos\CSharpMisc\CSharpMisc\bin\Debug\netcoreapp3.1\CSharpMisc.deps.json
+C:\Users\Devesh Gupta\Source\Repos\CSharpMisc\CSharpMisc\bin\Debug\netcoreapp3.1\CSharpMisc.runtimeconfig.json
+C:\Users\Devesh Gupta\Source\Repos\CSharpMisc\CSharpMisc\bin\Debug\netcoreapp3.1\CSharpMisc.runtimeconfig.dev.json
+C:\Users\Devesh Gupta\Source\Repos\CSharpMisc\CSharpMisc\bin\Debug\netcoreapp3.1\CSharpMisc.dll
+C:\Users\Devesh Gupta\Source\Repos\CSharpMisc\CSharpMisc\bin\Debug\netcoreapp3.1\CSharpMisc.pdb
+C:\Users\Devesh Gupta\Source\Repos\CSharpMisc\CSharpMisc\obj\Debug\netcoreapp3.1\CSharpMisc.dll
+C:\Users\Devesh Gupta\Source\Repos\CSharpMisc\CSharpMisc\obj\Debug\netcoreapp3.1\CSharpMisc.pdb
+C:\Users\Devesh Gupta\Source\Repos\CSharpMisc\CSharpMisc\obj\Debug\netcoreapp3.1\CSharpMisc.genruntimeconfig.cache
