@@ -1,0 +1,13 @@
+C:\Users\Devesh Gupta\Source\Repos\StringVsStringbuilder\StringVsStringbuilder\bin\Debug\netcoreapp3.1\StringVsStringbuilder.exe
+C:\Users\Devesh Gupta\Source\Repos\StringVsStringbuilder\StringVsStringbuilder\bin\Debug\netcoreapp3.1\StringVsStringbuilder.deps.json
+C:\Users\Devesh Gupta\Source\Repos\StringVsStringbuilder\StringVsStringbuilder\bin\Debug\netcoreapp3.1\StringVsStringbuilder.runtimeconfig.json
+C:\Users\Devesh Gupta\Source\Repos\StringVsStringbuilder\StringVsStringbuilder\bin\Debug\netcoreapp3.1\StringVsStringbuilder.runtimeconfig.dev.json
+C:\Users\Devesh Gupta\Source\Repos\StringVsStringbuilder\StringVsStringbuilder\bin\Debug\netcoreapp3.1\StringVsStringbuilder.dll
+C:\Users\Devesh Gupta\Source\Repos\StringVsStringbuilder\StringVsStringbuilder\bin\Debug\netcoreapp3.1\StringVsStringbuilder.pdb
+C:\Users\Devesh Gupta\Source\Repos\StringVsStringbuilder\StringVsStringbuilder\obj\Debug\netcoreapp3.1\StringVsStringbuilder.csprojAssemblyReference.cache
+C:\Users\Devesh Gupta\Source\Repos\StringVsStringbuilder\StringVsStringbuilder\obj\Debug\netcoreapp3.1\StringVsStringbuilder.AssemblyInfoInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\StringVsStringbuilder\StringVsStringbuilder\obj\Debug\netcoreapp3.1\StringVsStringbuilder.AssemblyInfo.cs
+C:\Users\Devesh Gupta\Source\Repos\StringVsStringbuilder\StringVsStringbuilder\obj\Debug\netcoreapp3.1\StringVsStringbuilder.csproj.CoreCompileInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\StringVsStringbuilder\StringVsStringbuilder\obj\Debug\netcoreapp3.1\StringVsStringbuilder.dll
+C:\Users\Devesh Gupta\Source\Repos\StringVsStringbuilder\StringVsStringbuilder\obj\Debug\netcoreapp3.1\StringVsStringbuilder.pdb
+C:\Users\Devesh Gupta\Source\Repos\StringVsStringbuilder\StringVsStringbuilder\obj\Debug\netcoreapp3.1\StringVsStringbuilder.genruntimeconfig.cache

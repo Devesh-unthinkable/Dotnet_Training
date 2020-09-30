@@ -1,0 +1,12 @@
+C:\Users\Devesh Gupta\Source\Repos\GenericClass\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.AssemblyInfoInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\GenericClass\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.AssemblyInfo.cs
+C:\Users\Devesh Gupta\Source\Repos\GenericClass\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\GenericClass\GenericClass\bin\Debug\netcoreapp3.1\GenericClass.exe
+C:\Users\Devesh Gupta\Source\Repos\GenericClass\GenericClass\bin\Debug\netcoreapp3.1\GenericClass.deps.json
+C:\Users\Devesh Gupta\Source\Repos\GenericClass\GenericClass\bin\Debug\netcoreapp3.1\GenericClass.runtimeconfig.json
+C:\Users\Devesh Gupta\Source\Repos\GenericClass\GenericClass\bin\Debug\netcoreapp3.1\GenericClass.runtimeconfig.dev.json
+C:\Users\Devesh Gupta\Source\Repos\GenericClass\GenericClass\bin\Debug\netcoreapp3.1\GenericClass.dll
+C:\Users\Devesh Gupta\Source\Repos\GenericClass\GenericClass\bin\Debug\netcoreapp3.1\GenericClass.pdb
+C:\Users\Devesh Gupta\Source\Repos\GenericClass\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.dll
+C:\Users\Devesh Gupta\Source\Repos\GenericClass\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.pdb
+C:\Users\Devesh Gupta\Source\Repos\GenericClass\GenericClass\obj\Debug\netcoreapp3.1\GenericClass.genruntimeconfig.cache
