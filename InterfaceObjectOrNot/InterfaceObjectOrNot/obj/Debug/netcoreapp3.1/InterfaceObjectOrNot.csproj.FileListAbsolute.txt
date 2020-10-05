@@ -1,0 +1,13 @@
+C:\Users\Devesh Gupta\Source\Repos\InterfaceObjectOrNot\InterfaceObjectOrNot\obj\Debug\netcoreapp3.1\InterfaceObjectOrNot.csprojAssemblyReference.cache
+C:\Users\Devesh Gupta\Source\Repos\InterfaceObjectOrNot\InterfaceObjectOrNot\obj\Debug\netcoreapp3.1\InterfaceObjectOrNot.AssemblyInfoInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\InterfaceObjectOrNot\InterfaceObjectOrNot\obj\Debug\netcoreapp3.1\InterfaceObjectOrNot.AssemblyInfo.cs
+C:\Users\Devesh Gupta\Source\Repos\InterfaceObjectOrNot\InterfaceObjectOrNot\obj\Debug\netcoreapp3.1\InterfaceObjectOrNot.csproj.CoreCompileInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\InterfaceObjectOrNot\InterfaceObjectOrNot\bin\Debug\netcoreapp3.1\InterfaceObjectOrNot.exe
+C:\Users\Devesh Gupta\Source\Repos\InterfaceObjectOrNot\InterfaceObjectOrNot\bin\Debug\netcoreapp3.1\InterfaceObjectOrNot.deps.json
+C:\Users\Devesh Gupta\Source\Repos\InterfaceObjectOrNot\InterfaceObjectOrNot\bin\Debug\netcoreapp3.1\InterfaceObjectOrNot.runtimeconfig.json
+C:\Users\Devesh Gupta\Source\Repos\InterfaceObjectOrNot\InterfaceObjectOrNot\bin\Debug\netcoreapp3.1\InterfaceObjectOrNot.runtimeconfig.dev.json
+C:\Users\Devesh Gupta\Source\Repos\InterfaceObjectOrNot\InterfaceObjectOrNot\bin\Debug\netcoreapp3.1\InterfaceObjectOrNot.dll
+C:\Users\Devesh Gupta\Source\Repos\InterfaceObjectOrNot\InterfaceObjectOrNot\bin\Debug\netcoreapp3.1\InterfaceObjectOrNot.pdb
+C:\Users\Devesh Gupta\Source\Repos\InterfaceObjectOrNot\InterfaceObjectOrNot\obj\Debug\netcoreapp3.1\InterfaceObjectOrNot.dll
+C:\Users\Devesh Gupta\Source\Repos\InterfaceObjectOrNot\InterfaceObjectOrNot\obj\Debug\netcoreapp3.1\InterfaceObjectOrNot.pdb
+C:\Users\Devesh Gupta\Source\Repos\InterfaceObjectOrNot\InterfaceObjectOrNot\obj\Debug\netcoreapp3.1\InterfaceObjectOrNot.genruntimeconfig.cache

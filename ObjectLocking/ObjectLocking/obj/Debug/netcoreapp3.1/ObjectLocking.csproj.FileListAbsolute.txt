@@ -1,0 +1,13 @@
+C:\Users\Devesh Gupta\Source\Repos\ObjectLocking\ObjectLocking\obj\Debug\netcoreapp3.1\ObjectLocking.csprojAssemblyReference.cache
+C:\Users\Devesh Gupta\Source\Repos\ObjectLocking\ObjectLocking\obj\Debug\netcoreapp3.1\ObjectLocking.AssemblyInfoInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ObjectLocking\ObjectLocking\obj\Debug\netcoreapp3.1\ObjectLocking.AssemblyInfo.cs
+C:\Users\Devesh Gupta\Source\Repos\ObjectLocking\ObjectLocking\obj\Debug\netcoreapp3.1\ObjectLocking.csproj.CoreCompileInputs.cache
+C:\Users\Devesh Gupta\Source\Repos\ObjectLocking\ObjectLocking\bin\Debug\netcoreapp3.1\ObjectLocking.exe
+C:\Users\Devesh Gupta\Source\Repos\ObjectLocking\ObjectLocking\bin\Debug\netcoreapp3.1\ObjectLocking.deps.json
+C:\Users\Devesh Gupta\Source\Repos\ObjectLocking\ObjectLocking\bin\Debug\netcoreapp3.1\ObjectLocking.runtimeconfig.json
+C:\Users\Devesh Gupta\Source\Repos\ObjectLocking\ObjectLocking\bin\Debug\netcoreapp3.1\ObjectLocking.runtimeconfig.dev.json
+C:\Users\Devesh Gupta\Source\Repos\ObjectLocking\ObjectLocking\bin\Debug\netcoreapp3.1\ObjectLocking.dll
+C:\Users\Devesh Gupta\Source\Repos\ObjectLocking\ObjectLocking\bin\Debug\netcoreapp3.1\ObjectLocking.pdb
+C:\Users\Devesh Gupta\Source\Repos\ObjectLocking\ObjectLocking\obj\Debug\netcoreapp3.1\ObjectLocking.dll
+C:\Users\Devesh Gupta\Source\Repos\ObjectLocking\ObjectLocking\obj\Debug\netcoreapp3.1\ObjectLocking.pdb
+C:\Users\Devesh Gupta\Source\Repos\ObjectLocking\ObjectLocking\obj\Debug\netcoreapp3.1\ObjectLocking.genruntimeconfig.cache
